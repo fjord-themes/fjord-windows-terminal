@@ -56,22 +56,22 @@ git clone https://github.com/fjord-themes/fjord-windows-terminal.git --depth 1
 "name": "Fjord",
 "background": "#1B2532",
 "foreground": "#E8F0F3",
-"selectionBackground": "#FFD285",
+"selectionBackground": "#C8B860",
 "cursorColor": "#9DD99A",
 "black": "#19191C",
 "red": "#F37C7C",
 "green": "#9DD99A",
-"yellow": "#FFD285",
+"yellow": "#C8B860",
 "blue": "#5DA6EA",
-"purple": "#B9A0F8",
+"purple": "#A8A4F8",
 "cyan": "#B8E7E9",
 "white": "#E8F0F3",
-"brightBlack": "#212128",
+"brightBlack": "#51606B",
 "brightRed": "#FF9B9B",
 "brightGreen": "#A3D5A0",
-"brightYellow": "#FFE0A3",
+"brightYellow": "#D4CC7A",
 "brightBlue": "#7BB8FF",
-"brightPurple": "#D4C6F7",
+"brightPurple": "#C8CCF7",
 "brightCyan": "#A1E9DE",
 "brightWhite": "#EFFAFF"
 }
@@ -89,10 +89,6 @@ The theme includes:
 - Optimized background and foreground colors
 - Custom selection and cursor colors
 - Enhanced readability with proper contrast ratios
-## 📸 Preview
-
-![Fjord Windows Terminal Theme](https://raw.githubusercontent.com/fjord-theme/fjord/main/docs/images/colortest.png)
-
 
 ## 🔄 Updates
 
