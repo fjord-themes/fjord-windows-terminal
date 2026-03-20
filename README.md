@@ -33,24 +33,14 @@ A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/
 ### Manual Installation
 
 
-1. Clone this repository:
-
-```bash
-git clone https://github.com/fjord-themes/fjord-windows-terminal.git --depth 1
-```
-
-
-
-
-
-2. Open Windows Terminal and go to Settings (Ctrl+Shift+,)
-3. Add the Fjord theme to your `profiles.defaults`:
+1. Open Windows Terminal and go to Settings (Ctrl+Shift+,)
+2. Add the Fjord theme to your `profiles.defaults`:
 ```json
 {
 "colorScheme": "Fjord"
 }
 ```
-4. Add the color scheme to your `schemes` array:
+3. Add the color scheme to your `schemes` array:
 ```json
 {
 "name": "Fjord",
@@ -76,9 +66,7 @@ git clone https://github.com/fjord-themes/fjord-windows-terminal.git --depth 1
 "brightWhite": "#EFFAFF"
 }
 ```
-5. Save the settings and the theme will be applied
-
-
+4. Save the settings and the theme will be applied
 
 
 ## 🔧 Configuration
