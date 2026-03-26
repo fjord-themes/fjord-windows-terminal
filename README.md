@@ -46,22 +46,22 @@ A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/
 "name": "Fjord",
 "background": "#1B2532",
 "foreground": "#E8F0F3",
-"selectionBackground": "#C8B860",
+"selectionBackground": "#FFD285",
 "cursorColor": "#9DD99A",
-"black": "#19191C",
+"black": "#212128",
 "red": "#F37C7C",
 "green": "#9DD99A",
-"yellow": "#C8B860",
+"yellow": "#FFD285",
 "blue": "#5DA6EA",
-"purple": "#A8A4F8",
+"purple": "#B9A0F8",
 "cyan": "#B8E7E9",
 "white": "#E8F0F3",
 "brightBlack": "#51606B",
 "brightRed": "#FF9B9B",
 "brightGreen": "#A3D5A0",
-"brightYellow": "#D4CC7A",
+"brightYellow": "#FFE0A3",
 "brightBlue": "#7BB8FF",
-"brightPurple": "#C8CCF7",
+"brightPurple": "#D4C6F7",
 "brightCyan": "#A1E9DE",
 "brightWhite": "#EFFAFF"
 }
@@ -80,7 +80,7 @@ The theme includes:
 
 ## 🔄 Updates
 
-This theme is automatically generated from [fjord-core](https://github.com/fjord-themes/fjord-core) and deployed on every release. For an overview of all supported platforms and the full color palette, visit the [Fjord theme page](https://github.com/fjord-themes/fjord).
+This theme is automatically generated from [fjord-core](https://git.jshuntley.com/fjord-theme/fjord-core) and deployed on every release. For an overview of all supported platforms and the full color palette, visit the [Fjord theme page](https://git.jshuntley.com/fjord-theme).
 ## ☕ Support My Work
 
 If you enjoy the Fjord theme and find it useful, consider supporting my work:
@@ -91,4 +91,4 @@ If you enjoy the Fjord theme and find it useful, consider supporting my work:
 MIT License - see [LICENSE](LICENSE) file for details.
 ## 🤝 Contributing
 
-For theme suggestions or issues, please open an issue on [fjord-core](https://github.com/fjord-themes/fjord-core). For an overview of the project, visit the [Fjord theme page](https://github.com/fjord-themes/fjord).
+For theme suggestions or issues, please open an issue on [fjord-core](https://git.jshuntley.com/fjord-theme/fjord-core). For an overview of the project, visit the [Fjord theme page](https://git.jshuntley.com/fjord-theme).
