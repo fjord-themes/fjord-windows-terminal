@@ -1,6 +1,6 @@
 # Fjord Theme for Windows Terminal
 
-A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation for Windows Terminal.
+A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/cyan separation for Windows Terminal.
 
 
 ## 🎨 Color Palette
