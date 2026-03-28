@@ -47,7 +47,7 @@ A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/c
 "name": "Fjord",
 "background": "#1B2532",
 "foreground": "#E8F0F3",
-"selectionBackground": "#FFD285",
+"selectionBackground": "#B8E7E9",
 "cursorColor": "#9DD99A",
 "black": "#212128",
 "red": "#F37C7C",
