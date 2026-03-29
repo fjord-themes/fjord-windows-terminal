@@ -34,7 +34,7 @@ A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/c
 ### Manual Installation
 
 
-1. Open Windows Terminal and go to Settings (Ctrl+Shift+,)
+1. Open Windows Terminal Settings (`Ctrl+Shift+,`) and click **Open JSON file** in the bottom-left corner
 2. Add the Fjord theme to your `profiles.defaults`:
 ```json
 {
